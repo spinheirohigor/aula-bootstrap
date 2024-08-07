@@ -1,0 +1,38 @@
+body{
+    font: 20px Arial;
+}
+
+.navbar{
+    background-color: rgb(190, 195, 193);
+    padding-left: 50px;
+}
+
+.quem-somos{
+    background-color: rgb(102, 112, 151);
+    color: white;
+}
+
+.space{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.imagem{
+    padding: 30px;
+    object-fit: cover;
+    border: none;
+}
+
+.container{
+    text-align: center;
+
+}
+#servicos{
+    background-color: gray;
+    color: white;
+}
+
+.final{
+    background-color: black;
+    color:white;
+}
